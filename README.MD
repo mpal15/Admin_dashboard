@@ -37,11 +37,6 @@ Being production-ready, you can either build your own **B2B applications**, **in
 
 👉 You can find a more comprehensive CRM example [here](https://example.crm.refine.dev/).
 
-## Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube channel.
-
-<a href="https://youtu.be/6a3Dz8gwjdg" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## Tech Stack
 
