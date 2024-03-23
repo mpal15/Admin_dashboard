@@ -30,6 +30,7 @@ import EditPage from "./pages/company/edit";
 import List from "./pages/tasks/list";
 import TasksEditPage from "./pages/tasks/edit";
 import TasksCreatePage from "./pages/tasks/create";
+import { Register } from "./pages/register";
 
 
 function App() {
@@ -60,7 +61,7 @@ function App() {
                 
                 <Route path="/forgot-password" element= {<ForgotPassword />} />
                 <Route path ="/login" element= {<Login/>}/>
-             
+                <Route path="/register" element={<Register />} />
               
                 <Route
                  element={<Authenticated 
